@@ -1,5 +1,5 @@
 # Generate.Artificial.Data
- We generate artificial data by assuming the true response follows an additive linear relationship with true predictors. 
+ We generate artificial data by assuming the true response follows an additive linear relationship with true predictors.   return
  𝑦𝑖=Σ𝛽𝑗𝑥𝑖𝑗+ 𝜀𝑖` where 𝜀𝑖 ~ 𝑁(0,1).  
  The simulation design can be customized considering five factors: 
  (1) total number of variables p 
