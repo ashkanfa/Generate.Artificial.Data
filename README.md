@@ -1,11 +1,9 @@
 # Generate.Artificial.Data
  We generate artificial data by assuming the true response follows an additive linear relationship with true predictors.
  
- $$𝑦_{𝑖}=sum_{j = 1}^{d}\beta_{𝑗}𝑥_{𝑖𝑗} + 𝜀_{𝑖}$$
+ ![alt text](https://github.com/ashkanfa/Generate.Artificial.Data/blob/master/eq.png)
  
- where $$𝜀_{𝑖} ~ 𝑁(0,1)$$
- 
- The simulation design can be customized considering five factors:
+  The simulation design can be customized considering five factors:
  
  (1) total number of variables p
  
