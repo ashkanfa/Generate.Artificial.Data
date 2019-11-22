@@ -1,7 +1,7 @@
 # Generate.Artificial.Data
  We generate artificial data by assuming the true response follows an additive linear relationship with true predictors.
  
- 𝑦𝑖=Σ𝛽𝑗𝑥𝑖𝑗+ 𝜀𝑖` where 𝜀𝑖 ~ 𝑁(0,1).
+ $𝑦_{𝑖}=sum_{j = 1}^{d}𝛽_{𝑗}𝑥_{𝑖𝑗}+ 𝜀_{𝑖}$` where $𝜀_{𝑖} ~ 𝑁(0,1)$
  
  The simulation design can be customized considering five factors:
  
