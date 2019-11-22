@@ -11,6 +11,10 @@
  
  (3) proportion of true predictors among all variables. true.prop
  
- (4) correlation structure which controls not only the magnitude of the correlation within true predictors but also controls the intensity      of the correlation between true predictors and spurious variables. This allows us to monitor the ability of different methodology in      differentiating causation from correlation. 
+ (4) correlation structure, if we divide variables into true predictors and spurious variables, then we can define a complex correlation structure as the following:
+ 
+ ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+ 
+ which controls not only the magnitude of the correlation within true predictors but also controls the intensity      of the correlation between true predictors and spurious variables. This allows us to monitor the ability of different methodology in      differentiating causation from correlation. 
  
  (5) magnitude of the effects (coefficients).
