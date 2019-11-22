@@ -11,7 +11,7 @@
  
  (3) proportion of true predictors among all variables. true.prop
  
- (4) correlation structure, if we divide variables into true predictors and spurious variables, then we can define a complex correlation structure as the following:
+ (4) correlation structure, if we divide variables into true predictors and spurious variables, then we can define a complex correlation structure as in the following figure where upper diagnoal is depicted:
  
  ![alt text](https://github.com/ashkanfa/Generate.Artificial.Data/blob/master/Correlation%20structure.png)
  
