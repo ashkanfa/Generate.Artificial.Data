@@ -1,7 +1,7 @@
 # Generate.Artificial.Data
  We generate artificial data by assuming the true response follows an additive linear relationship with true predictors.
  
- ![alt text](https://github.com/ashkanfa/Generate.Artificial.Data/blob/master/eq.png)
+ ![alt text](https://github.com/ashkanfa/Generate.Artificial.Data/blob/master/eq.PNG)
  
   The simulation design can be customized considering five factors:
  
