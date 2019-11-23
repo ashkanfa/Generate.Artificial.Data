@@ -18,3 +18,5 @@
  which controls not only the magnitude of the correlation within true predictors but also controls the intensity      of the correlation between true predictors and spurious variables. This allows us to monitor the ability of different methodology in      differentiating causation from correlation. 
  
  (5) magnitude of the effects (coefficients).
+.
+[guide on creating markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images)
